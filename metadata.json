@@ -1,0 +1,11 @@
+{
+  "name": "Copy of Udyam Disha",
+  "description": "AI-Driven Hyper-Local Business Advisory and Financial Structuring Assistant for rural micro-entrepreneurs by Ministry of Social Justice and Empowerment",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
